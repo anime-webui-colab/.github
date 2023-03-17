@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+<i>
 <small>img2img waifu of the google colab logo<br></small>
-<b><i><a href="https://anime-webui-colab.github.io/showcase/">showcase</a> // <a href="https://anime-webui-colab.github.io/usage/">usage</a></i></b>
+<b><a href="https://github.com/NUROISEA/anime-webui-colab">main repo</a></b> //
+<b><a href="https://anime-webui-colab.github.io/showcase/">showcase</a></b> // 
+<b><a href="https://anime-webui-colab.github.io/usage/">usage</a></b> <br>
+the rest of the repos are just forks, currently the two pinned are my own ones
+</i>
 </p>
